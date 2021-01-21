@@ -103,5 +103,5 @@ From the Disctrict School Analysis, we have found some following results. There 
  
  Image showing the summary
 
-    
+    https://user-images.githubusercontent.com/74233163/105349755-c6581d80-5baf-11eb-8f0e-0437db6782af.png
 
