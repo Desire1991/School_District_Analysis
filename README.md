@@ -43,11 +43,17 @@ o	Math and Reading Scores by Grade
 
 
 o	Scores by School Spending
-Image showing the results:
+
 <img width="828" alt="Spending_summary_df" src="https://user-images.githubusercontent.com/74233163/105348406-e7b80a00-5bad-11eb-84f7-2362049969c0.png">
 
 
-The analysis here shows that the less money spent was around
+The analysis here shows that the less money spent was less than $584
+Thomas High School's spending is not affected, nor is school size and type. However, as the data changed, it painted a very different picture. 
+
+While the Math and Reading scores by grade on overall data is affected very little, it lowered the school spending type between $630-644 per student on passing, which is the spending range that Thomas school is in.
+
+It also lowers the same metrics, % passing and overall passing, more notably in the medium school size (1000-2000).
+Finally, it also affected the same metrics more notably for Charter schools. The actual values can be extracted by the jupyter notebook in python result/output.
 
 
 
@@ -80,12 +86,6 @@ Image showing after replacing using NaN:
 <img width="632" alt="sttudent_data_ForNaN" src="https://user-images.githubusercontent.com/74233163/105349439-50ec4d00-5baf-11eb-9fd0-1983cec6b836.png">
 
 
-Thomas High School's spending is not affected, nor is school size and type. However, as the data changed, it painted a very different picture. 
-
-While the Math and Reading scores by grade on overall data is affected very little, it lowered the school spending type between $630-644 per student on passing, which is the spending range that Thomas school is in.
-
-It also lowers the same metrics, % passing and overall passing, more notably in the medium school size (1000-2000).
-Finally, it also affected the same metrics more notably for Charter schools. The actual values can be extracted by the jupyter notebook in python result/output.
 
 Summary:
 
