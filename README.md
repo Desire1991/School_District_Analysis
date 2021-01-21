@@ -13,7 +13,7 @@ The task here will be to replace Math and reading scores for Thomas High School 
 Results:
 The following are results from the analysis made after the changes:
 •	How is the district summary affected?
-	The district summary is affected by a small amount where avg math scores went from 78.98 to 78.93, and avg reading scores went from 81.87 to 81.85, and the 3     metrics of Percentages of passing all dropped about 1%
+	The district summary is affected by a small amount where avg math scores went from 78.98 to 78.93, and avg reading scores went from 81.87 to 81.85, and the 3 metrics of Percentages of passing all dropped about 1%
 
 Image showing the district summary
 
@@ -56,6 +56,10 @@ o	Scores by School Size:
       The reserch suggests that overall passing score is better with the smaller the school size. As we have bigger the school size the overall passing score           decreases slowly.
       
       Image showing the results
+
+
+<img width="767" alt="size_summary_Df" src="https://user-images.githubusercontent.com/74233163/105349648-a6285e80-5baf-11eb-8192-abc9e68fd152.png">
+
 
 
 
