@@ -11,15 +11,16 @@ Objective of the project:
 The task here will be to replace Math and reading scores for Thomas High School with the NaN while keeping the rest of the data intact. And then helping out showing how the changes affected the overall analysis.
 
 Results:
+
 The following are results from the analysis made after the changes:
-•	How is the district summary affected?
-	The district summary is affected by a small amount where avg math scores went from 78.98 to 78.93, and avg reading scores went from 81.87 to 81.85, and the 3 metrics of Percentages of passing all dropped about 1%
+How is the district summary affected?
+	The district summary is affected by a small amount where avg math scores went from 78.98 to 78.93, and avg reading scores went from 81.87 to 81.85, and           the 3 metrics of Percentages of passing all dropped about 1%
 
 Image showing the district summary
 
 <img width="1008" alt="Screen Shot 2021-01-21 at 3 00 19 AM" src="https://user-images.githubusercontent.com/74233163/105352432-7e3afa00-5bb3-11eb-834d-8e31435d1d10.png">
 
-How is the school summary affected?
+   How is the school summary affected?
 
 Only the Thomas High school number are affected as expected, while average scores of math and reading were affected less than 1%, % of passing math and reading, as well as overall passing decreased significantly. The 3 later metrics dropped from 90th percentile to 60th percentile.
 		
@@ -32,14 +33,15 @@ school summary image showing
 
    How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance, relative to the other school 
 
-   .The most notable changes are that % passing read, math, and overall decreased. 
-   .we evaluate the school by % Overall Passing, then Thomas High School went from 2nd place to 8th place out of 15 schools.
+   The most notable changes are that % passing read, math, and overall decreased. 
+   we evaluate the school by % Overall Passing, then Thomas High School went from 2nd place to 8th place out of 15 schools.
 
 Image showing the results
 
 
-How does replacing the ninth-grade scores affect the following:
-Math and Reading Scores by Grade
+   How does replacing the ninth-grade scores affect the following:
+
+   Math and Reading Scores by Grade
 
 <img width="694" alt="reading_score_ByGrade" src="https://user-images.githubusercontent.com/74233163/105349976-16cf7b00-5bb0-11eb-8f3e-88ef81deed1c.png">
 
@@ -62,6 +64,7 @@ Finally, it also affected the same metrics more notably for Charter schools. The
 
 
 Scores by School Size:
+
 The reserch suggests that overall passing score is better with the smaller the school size. As we have bigger the school size the overall passing score           decreases slowly.
       
 Image showing the results
@@ -72,6 +75,7 @@ Image showing the results
 
 
 Scores by School Type
+
 Image showing the results:
 
 <img width="726" alt="type_summary_df" src="https://user-images.githubusercontent.com/74233163/105349898-f56e8f00-5baf-11eb-9fbe-b29e14f27e57.png">
