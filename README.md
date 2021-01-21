@@ -72,6 +72,9 @@ By replacing the Thomas High School 9th grade score, we changed only Thomas High
 Image showing after replacing using NaN:
 
 
+<img width="632" alt="sttudent_data_ForNaN" src="https://user-images.githubusercontent.com/74233163/105349439-50ec4d00-5baf-11eb-9fd0-1983cec6b836.png">
+
+
 Thomas High School's spending is not affected, nor is school size and type. However, as the data changed, it painted a very different picture. 
 
 While the Math and Reading scores by grade on overall data is affected very little, it lowered the school spending type between $630-644 per student on passing, which is the spending range that Thomas school is in.
