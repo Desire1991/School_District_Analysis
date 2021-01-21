@@ -79,18 +79,19 @@ While the Math and Reading scores by grade on overall data is affected very litt
 It also lowers the same metrics, % passing and overall passing, more notably in the medium school size (1000-2000).
 Finally, it also affected the same metrics more notably for Charter schools. The actual values can be extracted by the jupyter notebook in python result/output.
 
-
-
-
 Summary:
 
-From the Disctrict School Analysis, we have found some following results. There is slight changes in overall passing result but it still has significant contribution to "Thomas High School" and results are found as
+From the Disctrict School Analysis, we have found some following results. There is slight changes in overall passing result but it still has significant contribution to "Thomas High School" and results are found as:
 
-     1.The original % of overall passing of Thomas High School was 90.94 % and it got dropped to 65.07.
-     2.The original math score of Thomas High School was 83.41% and it got dropped to 83.35%.
-     3.The original reading score of Thomas High School was 83.84% and it got dropped to 83.98%
-     4.The original % passing Math score of Thomas High School was 93.27% and it got dropped to 66.91%
-       The original % passing Reading Score of Thomas High School was 97.30% and it got dropped to 69.66%
+  1.The original % of overall passing of Thomas High School was 90.94 % and it got dropped to 65.07.
+  2.The original math score of Thomas High School was 83.41% and it got dropped to 83.35%.
+  3.The original reading score of Thomas High School was 83.84% and it got dropped to 83.98%
+  4.The original % passing Math score of Thomas High School was 93.27% and it got dropped to 66.91%
+
+  The original % passing Reading Score of Thomas High School was 97.30% and it got dropped to 69.66%
        
-       Image showing the summary
+ 
+ Image showing the summary
+
+    
 
