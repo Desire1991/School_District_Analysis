@@ -27,7 +27,7 @@ Image showing the district summary
 school summary image showing
 
 
-
+<img width="947" alt="District_summary_df" src="https://user-images.githubusercontent.com/74233163/105349755-c6581d80-5baf-11eb-8f0e-0437db6782af.png">
 
 
 
