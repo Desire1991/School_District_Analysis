@@ -18,6 +18,7 @@ The following are results from the analysis made after the changes:
 Image showing the district summary
 
 
+<img width="947" alt="District_summary_df" src="https://user-images.githubusercontent.com/74233163/105349755-c6581d80-5baf-11eb-8f0e-0437db6782af.png">
 
 •	How is the school summary affected?
 
@@ -39,8 +40,9 @@ Image showing the results
 
 
 •	How does replacing the ninth-grade scores affect the following:
-o	Math and Reading Scores by Grade
+	Math and Reading Scores by Grade
 
+<img width="694" alt="reading_score_ByGrade" src="https://user-images.githubusercontent.com/74233163/105349976-16cf7b00-5bb0-11eb-8f3e-88ef81deed1c.png">
 
 o	Scores by School Spending
 
