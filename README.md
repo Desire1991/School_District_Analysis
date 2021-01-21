@@ -17,8 +17,7 @@ The following are results from the analysis made after the changes:
 
 Image showing the district summary
 
-
-<img width="947" alt="District_summary_df" src="https://user-images.githubusercontent.com/74233163/105349755-c6581d80-5baf-11eb-8f0e-0437db6782af.png">
+<img width="1008" alt="Screen Shot 2021-01-21 at 3 00 19 AM" src="https://user-images.githubusercontent.com/74233163/105352432-7e3afa00-5bb3-11eb-834d-8e31435d1d10.png">
 
 •	How is the school summary affected?
 
@@ -103,4 +102,3 @@ From the Disctrict School Analysis, we have found some following results. There 
  
  Image showing the summary
 
-<img width="1008" alt="Screen Shot 2021-01-21 at 3 00 19 AM" src="https://user-images.githubusercontent.com/74233163/105352432-7e3afa00-5bb3-11eb-834d-8e31435d1d10.png">
