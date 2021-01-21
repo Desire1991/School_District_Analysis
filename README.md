@@ -43,6 +43,8 @@ Math and Reading Scores by Grade
 
 <img width="694" alt="reading_score_ByGrade" src="https://user-images.githubusercontent.com/74233163/105349976-16cf7b00-5bb0-11eb-8f3e-88ef81deed1c.png">
 
+
+<img width="674" alt="Math_score_ByGrade" src="https://user-images.githubusercontent.com/74233163/105355506-e12e9000-5bb7-11eb-9647-53b58b8b1af5.png">
 Scores by School Spending
 
 <img width="828" alt="Spending_summary_df" src="https://user-images.githubusercontent.com/74233163/105348406-e7b80a00-5bad-11eb-84f7-2362049969c0.png">
