@@ -66,6 +66,7 @@ o	Scores by School Size:
 o	Scores by School Type
 Image showing the results:
 
+<img width="726" alt="type_summary_df" src="https://user-images.githubusercontent.com/74233163/105349898-f56e8f00-5baf-11eb-9fbe-b29e14f27e57.png">
 
 The overall passing performance from the charter school is far better that district school.
 
