@@ -44,6 +44,7 @@ o	Math and Reading Scores by Grade
 
 o	Scores by School Spending
 Image showing the results:
+<img width="828" alt="Spending_summary_df" src="https://user-images.githubusercontent.com/74233163/105348406-e7b80a00-5bad-11eb-84f7-2362049969c0.png">
 
 
 The analysis here shows that the less money spent was around
