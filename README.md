@@ -99,5 +99,6 @@ From the Disctrict School Analysis, we have found some following results. There 
   The original % passing Reading Score of Thomas High School was 97.30% and it got dropped to 69.66%
        
  
- Image showing the summary
+ <img width="947" alt="District_summary_df" src="https://user-images.githubusercontent.com/74233163/105354349-0d491180-5bb6-11eb-8abc-c72d44938c2c.png">
+
 
