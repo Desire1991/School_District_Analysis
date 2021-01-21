@@ -103,5 +103,4 @@ From the Disctrict School Analysis, we have found some following results. There 
  
  Image showing the summary
 
-    https://user-images.githubusercontent.com/74233163/105349755-c6581d80-5baf-11eb-8f0e-0437db6782af.png
-
+<img width="433" alt="Screen Shot 2021-01-21 at 3 03 52 AM" src="https://user-images.githubusercontent.com/74233163/105352433-7e3afa00-5bb3-11eb-89c8-ca2b57726030.png">
